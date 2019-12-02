@@ -1,5 +1,5 @@
 {
-    "name": "doctrine/doctrine-cache-bundle",
+    "name": "effiana/doctrine-cache-bundle",
     "homepage": "https://www.doctrine-project.org",
     "description": "Symfony Bundle for Doctrine Cache",
     "keywords": ["cache", "caching"],
